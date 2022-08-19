@@ -2,8 +2,8 @@
 
 <br />
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Just-Feeshy&show_icons=true&theme=midnight-purple)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Just-Feeshy&show_icons=true&theme=midnight-purple)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Just-Feeshy&show_icons=true&theme=jolly)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Just-Feeshy&show_icons=true&theme=jolly)
 
 <br />
 
