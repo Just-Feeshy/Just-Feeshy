@@ -11,4 +11,4 @@
 - I'm also working on other projects outside Friday Night Funkin'.
 - Contact me from discord: Feeshy#5928.
 
-**I've worked on a couple repositories here:**
+**My repositories:**
