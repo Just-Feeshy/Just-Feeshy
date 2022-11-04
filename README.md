@@ -7,7 +7,7 @@
 
 <br />
 
-- I've work on Friday Night Funkin' mods like: FNF vs. JTC and FNF vs. Fonz
+- I've work on Friday Night Funkin' mods like: FNF vs. JTC and FNF: Abstraction
 - I'm also working on other projects outside Friday Night Funkin'.
 - Contact me from discord: Feeshy#5928.
 
