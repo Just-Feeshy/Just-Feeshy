@@ -1,4 +1,4 @@
-### Hey! My name is Diego, but I prefer to be called Feeshy because it’s funny.
+### Hello! My name is Diego, but I prefer to be called Feeshy because it’s funny.
 
 <br />
 
